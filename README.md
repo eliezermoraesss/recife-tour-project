@@ -20,9 +20,8 @@ Se você gostaria de contribuir para o projeto Recife Tour, sinta-se à vontade 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) para obter mais detalhes.
 
 ## Contato
 
 Para quaisquer dúvidas ou perguntas relacionadas a este projeto, sinta-se à vontade para entrar em contato conosco através do e-mail eliezer.moraes@outlook.com.
-
