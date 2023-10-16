@@ -1,8 +1,12 @@
 header {
+    display: flex;
     background-color: #6ca9e2;
     color: #343a40;
-    padding: 1rem;
-    margin-bottom: 1rem;
+}
+
+nav a {
+    display: flex;
+    justify-content: left;
 }
 body {
     font-family: Arial, sans-serif;
@@ -26,7 +30,7 @@ p {
 }
 
 a {
-    color: #343a40;
+    color: #0056b3;
     text-decoration: none;
 }
 
@@ -41,7 +45,9 @@ img {
 }
 
 footer {
+    display: flex;
     background-color: #6ca9e2;
     text-align: center;
     color: #343a40;
+    align-items: flex-end;
 }
